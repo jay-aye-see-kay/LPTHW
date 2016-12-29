@@ -1,0 +1,30 @@
+needs more than one file, use import (Maybe a csv file?
+I want to learn that)
+one class per room, names that fit purpose
+'runner' that knows about each room
+
+Need a room class
+
+Each room is a class that returns a result
+
+Main function that creates objects from the right class
+each time a room is called
+
+Rooms:
+   (0)Hallway:
+    starting point, 4 doors:
+    kitchen, bedroom, toilet, laundry
+  (1)Kitchen:
+    a place you can pee but shouldn't 1 door:
+    Hallway
+  (2)Bedroom:
+    Don't pee here unless you're a cunt, 1 door:
+    Hallway
+  (3)Toilet:
+    hallway, laundry
+    pee here. 2 doors:
+  (4)Laundry:
+    could pee here.. 2 doors:
+    hallway, toilet
+
+each room returns (next_r_number and peed)
